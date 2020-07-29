@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... -->
 ###
 
-I strongly want to to research in NLP, and want to publish research paper
+I strongly want to do research in the field of NLP, and want to publish research paper
 
 
  I love trying out new technologies and update with modern tools helping our lives more easier.
