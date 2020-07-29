@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there It's me Shubham 👋
 
-<!--
-**dshubham25/dshubham25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/dshubham25/dshubham25.svg)](http://hits.dwyl.com/dshubham25/dshubham25)
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently a student
+- 🌱 I’m currently learning Natural Language Processing, Artificial Intelligence, Deep Learning and Machine Learning
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 🛸 Learning everyday, currently learning to master Graphs, Competitive programming etc ...
+- 💬 Ask me about anything if I can help you with it
+- 📬 How to reach me: <a href="mailto:iamsds123@gmail.com">Let's get in touch!</a>..
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
+<!--
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with ... -->
+###
+
+I strongly want to to research in NLP, and want to publish research paper
+
+
+ I love trying out new technologies and update with modern tools helping our lives more easier.
+
+Happy coding !!
+
+
