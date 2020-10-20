@@ -1,6 +1,5 @@
 ### Hi there It's me Shubham 👋
-
-[![HitCount](http://hits.dwyl.com/dshubham25/dshubham25.svg)](http://hits.dwyl.com/dshubham25/dshubham25)
+![](https://komarev.com/ghpvc/?username=dshubham25&color=green)
 
 
 Here are some ideas to get you started:
