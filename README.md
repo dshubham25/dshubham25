@@ -7,6 +7,8 @@
 </a>
 Here are some ideas to get you started:
 
+
+
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning Natural Language Processing, Artificial Intelligence, Deep Learning and Machine Learning
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
